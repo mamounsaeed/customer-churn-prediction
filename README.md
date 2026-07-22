@@ -36,6 +36,8 @@ Telco Customer Churn Dataset
 - Recall
 - F1 Score
 - Confusion Matrix
+
+  
   <img width="644" height="540" alt="image" src="https://github.com/user-attachments/assets/fe7f4954-f5ee-4c2a-b031-1218f8de5568" />
 
 
